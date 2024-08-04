@@ -1,0 +1,16 @@
+{
+  "name": "chai_backend",
+  "version": "1.0.0",
+  "description": "a backend project at chai or code",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "backend",
+    "chai"
+  ],
+  "author": "Amisha Raj",
+  "license": "ISC"
+}
